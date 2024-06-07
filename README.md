@@ -1,6 +1,6 @@
 
 
-This Python script generates unique license keys for software products. 
+This Python script generates unique license keys for etsy products. 
 Each key includes a random alphanumeric portion and a 6-digit certificate number enclosed in curly braces. 
 
 Features:
